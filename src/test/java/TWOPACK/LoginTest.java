@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class LoginTest {
+public class  LoginTest {
     private static final Logger log = LoggerFactory.getLogger(LoginTest.class);
     WebDriver driver;
     @Test

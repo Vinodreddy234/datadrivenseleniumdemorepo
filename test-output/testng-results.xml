@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-18T11:32:00 IST" name="All Test Suite" finished-at="2024-05-18T11:32:38 IST" duration-ms="38341">
+    <groups>
+    </groups>
+    <test started-at="2024-05-18T11:32:00 IST" name="C:/Users/Gangadhar Reddy/IdeaProjects/myproject/src/test/java/TWOPACK/SearchTest.java" finished-at="2024-05-18T11:32:38 IST" duration-ms="38341">
+      <class name="TWOPACK.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:00 IST" name="setup" finished-at="2024-05-18T11:32:06 IST" duration-ms="6435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySearchExistingProductName()[pri:1, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:06 IST" name="VerifySearchExistingProductName" finished-at="2024-05-18T11:32:07 IST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchExistingProductName -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:07 IST" name="close" finished-at="2024-05-18T11:32:08 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:08 IST" name="setup" finished-at="2024-05-18T11:32:14 IST" duration-ms="5439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySearchNonExistingProdoct()[pri:2, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:14 IST" name="VerifySearchNonExistingProdoct" finished-at="2024-05-18T11:32:14 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchNonExistingProdoct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:14 IST" name="close" finished-at="2024-05-18T11:32:15 IST" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:15 IST" name="setup" finished-at="2024-05-18T11:32:21 IST" duration-ms="5830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyUsingSearchCriteriaField()[pri:3, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:21 IST" name="VerifyUsingSearchCriteriaField" finished-at="2024-05-18T11:32:22 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUsingSearchCriteriaField -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:22 IST" name="close" finished-at="2024-05-18T11:32:23 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:23 IST" name="setup" finished-at="2024-05-18T11:32:28 IST" duration-ms="5389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySearchbyselectingthecategoryofproduct()[pri:4, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:28 IST" name="VerifySearchbyselectingthecategoryofproduct" finished-at="2024-05-18T11:32:29 IST" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchbyselectingthecategoryofproduct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:29 IST" name="close" finished-at="2024-05-18T11:32:30 IST" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:30 IST" name="setup" finished-at="2024-05-18T11:32:36 IST" duration-ms="5499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyNavigateProductCamparePageFromSearchPage()[pri:5, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:36 IST" name="VerifyNavigateProductCamparePageFromSearchPage" finished-at="2024-05-18T11:32:37 IST" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNavigateProductCamparePageFromSearchPage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TWOPACK.SearchTest@37d4349f]" started-at="2024-05-18T11:32:37 IST" name="close" finished-at="2024-05-18T11:32:38 IST" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TWOPACK.SearchTest -->
+    </test> <!-- C:/Users/Gangadhar Reddy/IdeaProjects/myproject/src/test/java/TWOPACK/SearchTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

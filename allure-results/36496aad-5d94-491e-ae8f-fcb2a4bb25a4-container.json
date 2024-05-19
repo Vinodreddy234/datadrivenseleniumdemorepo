@@ -1,0 +1,1 @@
+{"uuid":"36496aad-5d94-491e-ae8f-fcb2a4bb25a4","name":"TWOPACK.SearchTest.close","children":["bee2e2f6-12f6-4b28-ad92-50d54001f1de"],"description":"","befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1716012539016,"stop":1716012540226}],"start":1716012539016,"stop":1716012540226}

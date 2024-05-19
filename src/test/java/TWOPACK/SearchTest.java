@@ -25,6 +25,7 @@ public class SearchTest {
             driver=new FirefoxDriver();
 
         }
+
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.get("https://tutorialsninja.com/demo/index.php?route=account/login");
@@ -44,6 +45,7 @@ public class SearchTest {
     }
     @Test(priority = 1)
     public void VerifySearchExistingProductName(){
+        System.out.println("my work is sucessfully updated");
         SearchPage sp=new SearchPage(driver);
         sp.searchfield().sendKeys("iMac");
         sp.searchButton().click();

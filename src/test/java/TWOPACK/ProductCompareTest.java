@@ -38,7 +38,6 @@ public class ProductCompareTest {
     }
     @Test
     public void VerifyAddingTheProductForComparisionFromProductDsiplayPage() throws InterruptedException {
-
         SearchPage sp=new SearchPage(driver);
         sp.searchfield().sendKeys("iMac");
         sp.searchButton().click();
@@ -50,7 +49,7 @@ public class ProductCompareTest {
         Thread.sleep(3000);
         pcp.productCOmparisionLink().click();
         Assert.assertEquals(pcp.productDetailsmessage().getText(),"Product Details");
-
+    System.out.println("sucessfully  verified my code");
     }
     @Test
     public void VerifyTwoProductsAddedToComparisonPage() throws InterruptedException {

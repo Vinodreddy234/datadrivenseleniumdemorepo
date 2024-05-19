@@ -29,6 +29,7 @@ public void VerifyWithValidCredentials(){
         loginPage.LoginButton().click();
 
         Assert.assertTrue(loginPage.HomePages().isDisplayed());
+    System.out.println("viswa sucessfully updated");
 
 
 }

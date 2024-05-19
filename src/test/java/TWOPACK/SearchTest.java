@@ -51,6 +51,7 @@ public class SearchTest {
         sp.searchButton().click();
         String ActualText = sp.iMacItem().getText();
         Assert.assertEquals(ActualText,"iMac");
+        System.out.println("code is updated now");
     }
     @Test(priority = 2)
 public void VerifySearchNonExistingProdoct(){
